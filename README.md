@@ -1,2 +1,2 @@
-# Compiler
-6thsem compiler
+# Computer Graphics
+6thsem cg
